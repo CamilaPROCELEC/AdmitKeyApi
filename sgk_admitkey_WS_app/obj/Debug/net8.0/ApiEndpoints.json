@@ -1,0 +1,205 @@
+[
+  {
+    "ContainingType": "sgk_admitkey_WS_app.Controllers.C1_Login",
+    "Method": "m1_valida_ingreso",
+    "RelativePath": "api/C1_Login/m1_valida_ingreso",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login_usuario",
+        "Type": "sgk_admitkey_WS_app.util.Request.P1_login_usua",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "sgk_admitkey_WS_app.util.Respuesta.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "sgk_admitkey_WS_app.Controllers.C1_Login",
+    "Method": "c2_cambio_contrasenia",
+    "RelativePath": "api/C1_Login/m2_cambio_contrasenia",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "recupera_contrasenia",
+        "Type": "sgk_admitkey_WS_app.util.Request.P1_recu_contr",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "sgk_admitkey_WS_app.util.Respuesta.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "sgk_admitkey_WS_app.Controllers.C2_Menu",
+    "Method": "m1_qr",
+    "RelativePath": "api/C2_Menu/m1_qr",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "busca_qr",
+        "Type": "sgk_admitkey_WS_app.util.Request.P2_menu_qr",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "sgk_admitkey_WS_app.util.Respuesta.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "sgk_admitkey_WS_app.Controllers.C2_Menu",
+    "Method": "recuperaContrasenia",
+    "RelativePath": "api/C2_Menu/m2_recuperaContrasenia",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "recupera_contrasenia",
+        "Type": "sgk_admitkey_WS_app.util.Request.P2_recu_contr",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "sgk_admitkey_WS_app.util.Respuesta.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "sgk_admitkey_WS_app.Controllers.C3_Invitaciones",
+    "Method": "m1_invitaciones",
+    "RelativePath": "api/C3_Invitaciones/m1_invitaciones",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "invitaciones",
+        "Type": "sgk_admitkey_WS_app.util.Request.P3_invitaciones",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "sgk_admitkey_WS_app.util.Respuesta.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "sgk_admitkey_WS_app.Controllers.C4_Historial_Invitaciones",
+    "Method": "m1_historial",
+    "RelativePath": "api/C4_Historial_Invitaciones/m1_historial",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "invitaciones",
+        "Type": "sgk_admitkey_WS_app.util.Request.P4_histo_invi",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "sgk_admitkey_WS_app.util.Respuesta.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "sgk_admitkey_WS_app.Controllers.C5_Historial_Aperturas",
+    "Method": "m1_historial",
+    "RelativePath": "api/C5_Historial_Aperturas/m1_historial",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "invitaciones",
+        "Type": "sgk_admitkey_WS_app.util.Request.P5_histo_apertura",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "sgk_admitkey_WS_app.util.Respuesta.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "sgk_admitkey_WS_app.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[sgk_admitkey_WS_app.WeatherForecast, sgk_admitkey_WS_app, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

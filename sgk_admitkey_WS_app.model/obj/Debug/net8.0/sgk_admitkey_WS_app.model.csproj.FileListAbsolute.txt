@@ -1,0 +1,17 @@
+C:\Users\camil\OneDrive\Documentos\Procelec\Admitkey\Proyectos\App\API\sgk_admitkey_WS_app.model\bin\Debug\net8.0\sgk_admitkey_WS_app.model.deps.json
+C:\Users\camil\OneDrive\Documentos\Procelec\Admitkey\Proyectos\App\API\sgk_admitkey_WS_app.model\bin\Debug\net8.0\sgk_admitkey_WS_app.model.dll
+C:\Users\camil\OneDrive\Documentos\Procelec\Admitkey\Proyectos\App\API\sgk_admitkey_WS_app.model\bin\Debug\net8.0\sgk_admitkey_WS_app.model.pdb
+C:\Users\camil\OneDrive\Documentos\Procelec\Admitkey\Proyectos\App\API\sgk_admitkey_WS_app.model\bin\Debug\net8.0\sgk_admitkey_WS_app.data.dll
+C:\Users\camil\OneDrive\Documentos\Procelec\Admitkey\Proyectos\App\API\sgk_admitkey_WS_app.model\bin\Debug\net8.0\sgk_admitkey_WS_app.util.dll
+C:\Users\camil\OneDrive\Documentos\Procelec\Admitkey\Proyectos\App\API\sgk_admitkey_WS_app.model\bin\Debug\net8.0\sgk_admitkey_WS_app.util.pdb
+C:\Users\camil\OneDrive\Documentos\Procelec\Admitkey\Proyectos\App\API\sgk_admitkey_WS_app.model\bin\Debug\net8.0\sgk_admitkey_WS_app.data.pdb
+C:\Users\camil\OneDrive\Documentos\Procelec\Admitkey\Proyectos\App\API\sgk_admitkey_WS_app.model\obj\Debug\net8.0\sgk_admitkey_WS_app.model.csproj.AssemblyReference.cache
+C:\Users\camil\OneDrive\Documentos\Procelec\Admitkey\Proyectos\App\API\sgk_admitkey_WS_app.model\obj\Debug\net8.0\sgk_admitkey_WS_app.model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\OneDrive\Documentos\Procelec\Admitkey\Proyectos\App\API\sgk_admitkey_WS_app.model\obj\Debug\net8.0\sgk_admitkey_WS_app.model.AssemblyInfoInputs.cache
+C:\Users\camil\OneDrive\Documentos\Procelec\Admitkey\Proyectos\App\API\sgk_admitkey_WS_app.model\obj\Debug\net8.0\sgk_admitkey_WS_app.model.AssemblyInfo.cs
+C:\Users\camil\OneDrive\Documentos\Procelec\Admitkey\Proyectos\App\API\sgk_admitkey_WS_app.model\obj\Debug\net8.0\sgk_admitkey_WS_app.model.csproj.CoreCompileInputs.cache
+C:\Users\camil\OneDrive\Documentos\Procelec\Admitkey\Proyectos\App\API\sgk_admitkey_WS_app.model\obj\Debug\net8.0\sgk_admi.583CB245.Up2Date
+C:\Users\camil\OneDrive\Documentos\Procelec\Admitkey\Proyectos\App\API\sgk_admitkey_WS_app.model\obj\Debug\net8.0\sgk_admitkey_WS_app.model.dll
+C:\Users\camil\OneDrive\Documentos\Procelec\Admitkey\Proyectos\App\API\sgk_admitkey_WS_app.model\obj\Debug\net8.0\refint\sgk_admitkey_WS_app.model.dll
+C:\Users\camil\OneDrive\Documentos\Procelec\Admitkey\Proyectos\App\API\sgk_admitkey_WS_app.model\obj\Debug\net8.0\sgk_admitkey_WS_app.model.pdb
+C:\Users\camil\OneDrive\Documentos\Procelec\Admitkey\Proyectos\App\API\sgk_admitkey_WS_app.model\obj\Debug\net8.0\ref\sgk_admitkey_WS_app.model.dll

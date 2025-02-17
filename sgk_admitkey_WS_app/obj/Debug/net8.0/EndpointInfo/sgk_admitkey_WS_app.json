@@ -1,0 +1,605 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "sgk_admitkey_WS_app",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/C1_Login/m1_valida_ingreso": {
+      "post": {
+        "tags": [
+          "C1_Login"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/P1_login_usua"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/P1_login_usua"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/P1_login_usua"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Response"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Response"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Response"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/C1_Login/m2_cambio_contrasenia": {
+      "post": {
+        "tags": [
+          "C1_Login"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/P1_recu_contr"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/P1_recu_contr"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/P1_recu_contr"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Response"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Response"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Response"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/C2_Menu/m1_qr": {
+      "post": {
+        "tags": [
+          "C2_Menu"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/P2_menu_qr"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/P2_menu_qr"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/P2_menu_qr"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Response"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Response"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Response"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/C2_Menu/m2_recuperaContrasenia": {
+      "post": {
+        "tags": [
+          "C2_Menu"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/P2_recu_contr"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/P2_recu_contr"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/P2_recu_contr"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Response"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Response"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Response"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/C3_Invitaciones/m1_invitaciones": {
+      "post": {
+        "tags": [
+          "C3_Invitaciones"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/P3_invitaciones"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/P3_invitaciones"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/P3_invitaciones"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Response"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Response"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Response"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/C4_Historial_Invitaciones/m1_historial": {
+      "post": {
+        "tags": [
+          "C4_Historial_Invitaciones"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/P4_histo_invi"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/P4_histo_invi"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/P4_histo_invi"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Response"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Response"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Response"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/C5_Historial_Aperturas/m1_historial": {
+      "post": {
+        "tags": [
+          "C5_Historial_Aperturas"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/P5_histo_apertura"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/P5_histo_apertura"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/P5_histo_apertura"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Response"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Response"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Response"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/WeatherForecast": {
+      "get": {
+        "tags": [
+          "WeatherForecast"
+        ],
+        "operationId": "GetWeatherForecast",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "P1_login_usua": {
+        "type": "object",
+        "properties": {
+          "_trankey": {
+            "$ref": "#/components/schemas/Trankey"
+          },
+          "res_correo": {
+            "type": "string",
+            "nullable": true
+          },
+          "res_password": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "P1_recu_contr": {
+        "type": "object",
+        "properties": {
+          "_trankey": {
+            "$ref": "#/components/schemas/Trankey"
+          },
+          "res_correo": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "P2_menu_qr": {
+        "type": "object",
+        "properties": {
+          "_trankey": {
+            "$ref": "#/components/schemas/Trankey"
+          },
+          "res_codigo": {
+            "type": "string",
+            "nullable": true
+          },
+          "res_correo": {
+            "type": "string",
+            "nullable": true
+          },
+          "res_password": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "P2_recu_contr": {
+        "type": "object",
+        "properties": {
+          "_trankey": {
+            "$ref": "#/components/schemas/Trankey"
+          },
+          "res_codigo": {
+            "type": "string",
+            "nullable": true
+          },
+          "res_correo": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "P3_invitaciones": {
+        "type": "object",
+        "properties": {
+          "_trankey": {
+            "$ref": "#/components/schemas/Trankey"
+          },
+          "res_codigo": {
+            "type": "string",
+            "nullable": true
+          },
+          "res_correo": {
+            "type": "string",
+            "nullable": true
+          },
+          "res_password": {
+            "type": "string",
+            "nullable": true
+          },
+          "in_nombre": {
+            "type": "string",
+            "nullable": true
+          },
+          "in_numero": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "P4_histo_invi": {
+        "type": "object",
+        "properties": {
+          "_trankey": {
+            "$ref": "#/components/schemas/Trankey"
+          },
+          "res_codigo": {
+            "type": "string",
+            "nullable": true
+          },
+          "res_correo": {
+            "type": "string",
+            "nullable": true
+          },
+          "res_password": {
+            "type": "string",
+            "nullable": true
+          },
+          "fech_ini": {
+            "type": "string",
+            "nullable": true
+          },
+          "fech_fina": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "P5_histo_apertura": {
+        "type": "object",
+        "properties": {
+          "_trankey": {
+            "$ref": "#/components/schemas/Trankey"
+          },
+          "res_codigo": {
+            "type": "string",
+            "nullable": true
+          },
+          "res_correo": {
+            "type": "string",
+            "nullable": true
+          },
+          "res_password": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Response": {
+        "type": "object",
+        "properties": {
+          "codigoError": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "message": {
+            "type": "string",
+            "nullable": true
+          },
+          "result": {
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Trankey": {
+        "type": "object",
+        "properties": {
+          "_login": {
+            "type": "string",
+            "nullable": true
+          },
+          "_firma": {
+            "type": "string",
+            "nullable": true
+          },
+          "_fecha": {
+            "type": "string",
+            "nullable": true
+          },
+          "_random": {
+            "type": "string",
+            "nullable": true
+          },
+          "_app_fuente": {
+            "type": "string",
+            "nullable": true
+          },
+          "_app_version": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "WeatherForecast": {
+        "type": "object",
+        "properties": {
+          "date": {
+            "type": "string",
+            "format": "date"
+          },
+          "temperatureC": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "temperatureF": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          },
+          "summary": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

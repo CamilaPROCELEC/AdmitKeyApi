@@ -1,0 +1,12 @@
+C:\Users\camil\OneDrive\Documentos\Procelec\Admitkey\Proyectos\App\API\sgk_admitkey_WS_app.data\bin\Release\net8.0\sgk_admitkey_WS_app.data.deps.json
+C:\Users\camil\OneDrive\Documentos\Procelec\Admitkey\Proyectos\App\API\sgk_admitkey_WS_app.data\bin\Release\net8.0\sgk_admitkey_WS_app.data.dll
+C:\Users\camil\OneDrive\Documentos\Procelec\Admitkey\Proyectos\App\API\sgk_admitkey_WS_app.data\bin\Release\net8.0\sgk_admitkey_WS_app.data.pdb
+C:\Users\camil\OneDrive\Documentos\Procelec\Admitkey\Proyectos\App\API\sgk_admitkey_WS_app.data\obj\Release\net8.0\sgk_admitkey_WS_app.data.csproj.AssemblyReference.cache
+C:\Users\camil\OneDrive\Documentos\Procelec\Admitkey\Proyectos\App\API\sgk_admitkey_WS_app.data\obj\Release\net8.0\sgk_admitkey_WS_app.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\OneDrive\Documentos\Procelec\Admitkey\Proyectos\App\API\sgk_admitkey_WS_app.data\obj\Release\net8.0\sgk_admitkey_WS_app.data.AssemblyInfoInputs.cache
+C:\Users\camil\OneDrive\Documentos\Procelec\Admitkey\Proyectos\App\API\sgk_admitkey_WS_app.data\obj\Release\net8.0\sgk_admitkey_WS_app.data.AssemblyInfo.cs
+C:\Users\camil\OneDrive\Documentos\Procelec\Admitkey\Proyectos\App\API\sgk_admitkey_WS_app.data\obj\Release\net8.0\sgk_admitkey_WS_app.data.csproj.CoreCompileInputs.cache
+C:\Users\camil\OneDrive\Documentos\Procelec\Admitkey\Proyectos\App\API\sgk_admitkey_WS_app.data\obj\Release\net8.0\sgk_admitkey_WS_app.data.dll
+C:\Users\camil\OneDrive\Documentos\Procelec\Admitkey\Proyectos\App\API\sgk_admitkey_WS_app.data\obj\Release\net8.0\refint\sgk_admitkey_WS_app.data.dll
+C:\Users\camil\OneDrive\Documentos\Procelec\Admitkey\Proyectos\App\API\sgk_admitkey_WS_app.data\obj\Release\net8.0\sgk_admitkey_WS_app.data.pdb
+C:\Users\camil\OneDrive\Documentos\Procelec\Admitkey\Proyectos\App\API\sgk_admitkey_WS_app.data\obj\Release\net8.0\ref\sgk_admitkey_WS_app.data.dll

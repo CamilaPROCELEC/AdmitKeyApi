@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\sgk_admitkey_WS_app.props" />
+</Project>
