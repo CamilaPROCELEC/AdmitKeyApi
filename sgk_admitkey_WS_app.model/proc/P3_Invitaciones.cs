@@ -48,7 +48,7 @@ namespace sgk_admitkey_WS_app.model.proc
                     string strCon = util.Conexion.Conexion.CadenaConexion();
 
                     string[] vector = new string[5];
-                    cb.sp = "usp_Web_S_app_p_3_invitaciones_c1_1_G_invitacion";//poner el nombre correcto
+                    cb.sp = "usp_Web_S_app_p_3_invitaciones_c3_1_G_invitacion";//poner el nombre correcto
                     vector[0] = "@res_codigo,v," + invitaciones.res_codigo;
                     vector[1] = "@res_correo,v," + invitaciones.res_correo;
                     vector[2] = "@res_password,v," + invitaciones.res_password;

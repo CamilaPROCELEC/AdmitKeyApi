@@ -48,7 +48,7 @@ namespace sgk_admitkey_WS_app.model.proc
                     string strCon = util.Conexion.Conexion.CadenaConexion();
 
                     string[] vector = new string[3];
-                    cb.sp = "usp_Web_S_app_p_2_menu_c1_1_B_QR";//poner el nombre correcto
+                    cb.sp = "usp_Web_S_app_p_2_menu_c2_1_B_QR";//poner el nombre correcto
                     vector[0] = "@res_codigo,v," + busca_qr.res_codigo;
                     vector[1] = "@res_correo,v," + busca_qr.res_correo;
                     vector[2] = "@res_password,v," + busca_qr.res_password;
@@ -125,7 +125,7 @@ namespace sgk_admitkey_WS_app.model.proc
                     string strCon = util.Conexion.Conexion.CadenaConexion();
 
                     string[] vector = new string[2];
-                    cb.sp = "usp_Web_S_app_p_2_menu_c1_2_G_recupera_contrasenia";//poner el nombre correcto
+                    cb.sp = "usp_Web_S_app_p_2_menu_c2_2_G_recupera_contrasenia";//poner el nombre correcto
                     vector[0] = "@res_codigo,v," + recupera_contrasenia.res_codigo;
                     vector[1] = "@res_correo,v," + recupera_contrasenia.res_correo;
 

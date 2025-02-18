@@ -85,3 +85,4 @@ C:\Users\camil\OneDrive\Documentos\Procelec\Admitkey\Proyectos\App\API\sgk_admit
 C:\Users\camil\OneDrive\Documentos\Procelec\Admitkey\Proyectos\App\API\sgk_admitkey_WS_app\obj\Release\net8.0\sgk_admitkey_WS_app.pdb
 C:\Users\camil\OneDrive\Documentos\Procelec\Admitkey\Proyectos\App\API\sgk_admitkey_WS_app\obj\Release\net8.0\sgk_admitkey_WS_app.genruntimeconfig.cache
 C:\Users\camil\OneDrive\Documentos\Procelec\Admitkey\Proyectos\App\API\sgk_admitkey_WS_app\obj\Release\net8.0\ref\sgk_admitkey_WS_app.dll
+C:\Users\camil\OneDrive\Documentos\Procelec\Admitkey\Proyectos\App\API\sgk_admitkey_WS_app\obj\Release\net8.0\sgk_admitkey_WS_app.sourcelink.json

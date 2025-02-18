@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sgk_admitkey_WS_app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67b20c5599f554ebc13741fe961f8ef9f68cad65")]
 [assembly: System.Reflection.AssemblyProductAttribute("sgk_admitkey_WS_app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sgk_admitkey_WS_app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

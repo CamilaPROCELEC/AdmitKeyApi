@@ -49,7 +49,7 @@ namespace sgk_admitkey_WS_app.model.proc
                     string strCon = util.Conexion.Conexion.CadenaConexion();
 
                     string[] vector = new string[5];
-                    cb.sp = "usp_Web_S_app_p_4_historial_invitaciones_c1_1_B_historial";//poner el nombre correcto
+                    cb.sp = "usp_Web_S_app_p_4_historial_invitaciones_c4_1_B_historial";//poner el nombre correcto
                     vector[0] = "@res_codigo,v," + historial.res_codigo;
                     vector[1] = "@res_correo,v," + historial.res_correo;
                     vector[2] = "@res_password,v," + historial.res_password;

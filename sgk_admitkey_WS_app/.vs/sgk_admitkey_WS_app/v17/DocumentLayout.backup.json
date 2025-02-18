@@ -3,10 +3,25 @@
   "WorkspaceRootPath": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5F172C3-323D-4217-8C9F-6C8D2DB367A9}|..\\sgk_admitkey_WS_app.data\\sgk_admitkey_WS_app.data.csproj|c:\\users\\camil\\onedrive\\documentos\\procelec\\admitkey\\proyectos\\app\\api\\sgk_admitkey_ws_app.data\\dao\\c_base_datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A96BBA1-D1FB-403C-80D1-0E7A2858ACE2}|..\\sgk_admitkey_WS_app.model\\sgk_admitkey_WS_app.model.csproj|c:\\users\\camil\\onedrive\\documentos\\procelec\\admitkey\\proyectos\\app\\api\\sgk_admitkey_ws_app.model\\proc\\p5_histo_aper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96BBA1-D1FB-403C-80D1-0E7A2858ACE2}|..\\sgk_admitkey_WS_app.model\\sgk_admitkey_WS_app.model.csproj|c:\\users\\camil\\onedrive\\documentos\\procelec\\admitkey\\proyectos\\app\\api\\sgk_admitkey_ws_app.model\\proc\\p4_histo_invi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96BBA1-D1FB-403C-80D1-0E7A2858ACE2}|..\\sgk_admitkey_WS_app.model\\sgk_admitkey_WS_app.model.csproj|c:\\users\\camil\\onedrive\\documentos\\procelec\\admitkey\\proyectos\\app\\api\\sgk_admitkey_ws_app.model\\proc\\p3_invitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96BBA1-D1FB-403C-80D1-0E7A2858ACE2}|..\\sgk_admitkey_WS_app.model\\sgk_admitkey_WS_app.model.csproj|c:\\users\\camil\\onedrive\\documentos\\procelec\\admitkey\\proyectos\\app\\api\\sgk_admitkey_ws_app.model\\proc\\p2_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A96BBA1-D1FB-403C-80D1-0E7A2858ACE2}|..\\sgk_admitkey_WS_app.model\\sgk_admitkey_WS_app.model.csproj|c:\\users\\camil\\onedrive\\documentos\\procelec\\admitkey\\proyectos\\app\\api\\sgk_admitkey_ws_app.model\\proc\\p1_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B561260-7B11-41C6-895B-810AB485A661}|..\\sgk_admitkey_WS_app.util\\sgk_admitkey_WS_app.util.csproj|c:\\users\\camil\\onedrive\\documentos\\procelec\\admitkey\\proyectos\\app\\api\\sgk_admitkey_ws_app.util\\request\\p1_login_usua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F172C3-323D-4217-8C9F-6C8D2DB367A9}|..\\sgk_admitkey_WS_app.data\\sgk_admitkey_WS_app.data.csproj|c:\\users\\camil\\onedrive\\documentos\\procelec\\admitkey\\proyectos\\app\\api\\sgk_admitkey_ws_app.data\\dao\\c_base_datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD33558C-33AB-4758-83BA-B816C63DE60C}|sgk_admitkey_WS_app.csproj|c:\\users\\camil\\onedrive\\documentos\\procelec\\admitkey\\proyectos\\app\\api\\sgk_admitkey_ws_app\\controllers\\c1_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,9 +32,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B561260-7B11-41C6-895B-810AB485A661}|..\\sgk_admitkey_WS_app.util\\sgk_admitkey_WS_app.util.csproj|c:\\users\\camil\\onedrive\\documentos\\procelec\\admitkey\\proyectos\\app\\api\\sgk_admitkey_ws_app.util\\validaciones\\identidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A96BBA1-D1FB-403C-80D1-0E7A2858ACE2}|..\\sgk_admitkey_WS_app.model\\sgk_admitkey_WS_app.model.csproj|c:\\users\\camil\\onedrive\\documentos\\procelec\\admitkey\\proyectos\\app\\api\\sgk_admitkey_ws_app.model\\proc\\p3_invitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD33558C-33AB-4758-83BA-B816C63DE60C}|sgk_admitkey_WS_app.csproj|c:\\users\\camil\\onedrive\\documentos\\procelec\\admitkey\\proyectos\\app\\api\\sgk_admitkey_ws_app\\controllers\\c5_historial_aperturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,16 +45,7 @@
       "AbsoluteMoniker": "D:0:0:{3B561260-7B11-41C6-895B-810AB485A661}|..\\sgk_admitkey_WS_app.util\\sgk_admitkey_WS_app.util.csproj|c:\\users\\camil\\onedrive\\documentos\\procelec\\admitkey\\proyectos\\app\\api\\sgk_admitkey_ws_app.util\\request\\p5_histo_apertura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A96BBA1-D1FB-403C-80D1-0E7A2858ACE2}|..\\sgk_admitkey_WS_app.model\\sgk_admitkey_WS_app.model.csproj|c:\\users\\camil\\onedrive\\documentos\\procelec\\admitkey\\proyectos\\app\\api\\sgk_admitkey_ws_app.model\\proc\\p4_histo_invi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3B561260-7B11-41C6-895B-810AB485A661}|..\\sgk_admitkey_WS_app.util\\sgk_admitkey_WS_app.util.csproj|c:\\users\\camil\\onedrive\\documentos\\procelec\\admitkey\\proyectos\\app\\api\\sgk_admitkey_ws_app.util\\request\\p4_histo_invi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A96BBA1-D1FB-403C-80D1-0E7A2858ACE2}|..\\sgk_admitkey_WS_app.model\\sgk_admitkey_WS_app.model.csproj|c:\\users\\camil\\onedrive\\documentos\\procelec\\admitkey\\proyectos\\app\\api\\sgk_admitkey_ws_app.model\\proc\\p5_histo_aper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A96BBA1-D1FB-403C-80D1-0E7A2858ACE2}|..\\sgk_admitkey_WS_app.model\\sgk_admitkey_WS_app.model.csproj|c:\\users\\camil\\onedrive\\documentos\\procelec\\admitkey\\proyectos\\app\\api\\sgk_admitkey_ws_app.model\\proc\\p2_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD33558C-33AB-4758-83BA-B816C63DE60C}|sgk_admitkey_WS_app.csproj|c:\\users\\camil\\onedrive\\documentos\\procelec\\admitkey\\proyectos\\app\\api\\sgk_admitkey_ws_app\\controllers\\c2_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,9 +60,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FD33558C-33AB-4758-83BA-B816C63DE60C}|sgk_admitkey_WS_app.csproj|c:\\users\\camil\\onedrive\\documentos\\procelec\\admitkey\\proyectos\\app\\api\\sgk_admitkey_ws_app\\controllers\\c3_invitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD33558C-33AB-4758-83BA-B816C63DE60C}|sgk_admitkey_WS_app.csproj|solutionrelative:controllers\\c3_invitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B561260-7B11-41C6-895B-810AB485A661}|..\\sgk_admitkey_WS_app.util\\sgk_admitkey_WS_app.util.csproj|c:\\users\\camil\\onedrive\\documentos\\procelec\\admitkey\\proyectos\\app\\api\\sgk_admitkey_ws_app.util\\request\\p1_login_usua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B561260-7B11-41C6-895B-810AB485A661}|..\\sgk_admitkey_WS_app.util\\sgk_admitkey_WS_app.util.csproj|c:\\users\\camil\\onedrive\\documentos\\procelec\\admitkey\\proyectos\\app\\api\\sgk_admitkey_ws_app.util\\request\\p3_invitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -93,73 +93,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "P3_Invitaciones.cs",
-              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app.model\\proc\\P3_Invitaciones.cs",
-              "RelativeDocumentMoniker": "..\\sgk_admitkey_WS_app.model\\proc\\P3_Invitaciones.cs",
-              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app.model\\proc\\P3_Invitaciones.cs",
-              "RelativeToolTip": "..\\sgk_admitkey_WS_app.model\\proc\\P3_Invitaciones.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAQwEIAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T15:26:29.564Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "C1_Login.cs",
-              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app\\Controllers\\C1_Login.cs",
-              "RelativeDocumentMoniker": "Controllers\\C1_Login.cs",
-              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app\\Controllers\\C1_Login.cs",
-              "RelativeToolTip": "Controllers\\C1_Login.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIAwwBAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T16:03:04.358Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "P1_Login.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app.model\\proc\\P1_Login.cs",
               "RelativeDocumentMoniker": "..\\sgk_admitkey_WS_app.model\\proc\\P1_Login.cs",
               "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app.model\\proc\\P1_Login.cs",
               "RelativeToolTip": "..\\sgk_admitkey_WS_app.model\\proc\\P1_Login.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAIAwwCQAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCQAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T14:40:53.489Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "P5_histo_apertura.cs",
-              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app.util\\Request\\P5_histo_apertura.cs",
-              "RelativeDocumentMoniker": "..\\sgk_admitkey_WS_app.util\\Request\\P5_histo_apertura.cs",
-              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app.util\\Request\\P5_histo_apertura.cs",
-              "RelativeToolTip": "..\\sgk_admitkey_WS_app.util\\Request\\P5_histo_apertura.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T15:57:53.764Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "P4_histo_invi.cs",
-              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app.util\\Request\\P4_histo_invi.cs",
-              "RelativeDocumentMoniker": "..\\sgk_admitkey_WS_app.util\\Request\\P4_histo_invi.cs",
-              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app.util\\Request\\P4_histo_invi.cs",
-              "RelativeToolTip": "..\\sgk_admitkey_WS_app.util\\Request\\P4_histo_invi.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T15:34:14.248Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "c_base_datos.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app.data\\DAO\\c_base_datos.cs",
               "RelativeDocumentMoniker": "..\\sgk_admitkey_WS_app.data\\DAO\\c_base_datos.cs",
@@ -172,7 +123,72 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "P1_login_usua.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app.util\\Request\\P1_login_usua.cs",
+              "RelativeDocumentMoniker": "..\\sgk_admitkey_WS_app.util\\Request\\P1_login_usua.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app.util\\Request\\P1_login_usua.cs",
+              "RelativeToolTip": "..\\sgk_admitkey_WS_app.util\\Request\\P1_login_usua.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T14:46:33.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "P2_Menu.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app.model\\proc\\P2_Menu.cs",
+              "RelativeDocumentMoniker": "..\\sgk_admitkey_WS_app.model\\proc\\P2_Menu.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app.model\\proc\\P2_Menu.cs",
+              "RelativeToolTip": "..\\sgk_admitkey_WS_app.model\\proc\\P2_Menu.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAYwIgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T15:15:54.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "P3_Invitaciones.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app.model\\proc\\P3_Invitaciones.cs",
+              "RelativeDocumentMoniker": "..\\sgk_admitkey_WS_app.model\\proc\\P3_Invitaciones.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app.model\\proc\\P3_Invitaciones.cs",
+              "RelativeToolTip": "..\\sgk_admitkey_WS_app.model\\proc\\P3_Invitaciones.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T15:26:29.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "P4_Histo_Invi.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app.model\\proc\\P4_Histo_Invi.cs",
+              "RelativeDocumentMoniker": "..\\sgk_admitkey_WS_app.model\\proc\\P4_Histo_Invi.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app.model\\proc\\P4_Histo_Invi.cs",
+              "RelativeToolTip": "..\\sgk_admitkey_WS_app.model\\proc\\P4_Histo_Invi.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwDMAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T15:49:17.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P5_Histo_Aper.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app.model\\proc\\P5_Histo_Aper.cs",
+              "RelativeDocumentMoniker": "..\\sgk_admitkey_WS_app.model\\proc\\P5_Histo_Aper.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app.model\\proc\\P5_Histo_Aper.cs",
+              "RelativeToolTip": "..\\sgk_admitkey_WS_app.model\\proc\\P5_Histo_Aper.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDMAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T15:57:35.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Conexion.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app.util\\Conexion\\Conexion.cs",
               "RelativeDocumentMoniker": "..\\sgk_admitkey_WS_app.util\\Conexion\\Conexion.cs",
@@ -180,24 +196,47 @@
               "RelativeToolTip": "..\\sgk_admitkey_WS_app.util\\Conexion\\Conexion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T23:35:57.497Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T23:35:57.497Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "P5_Histo_Aper.cs",
-              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app.model\\proc\\P5_Histo_Aper.cs",
-              "RelativeDocumentMoniker": "..\\sgk_admitkey_WS_app.model\\proc\\P5_Histo_Aper.cs",
-              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app.model\\proc\\P5_Histo_Aper.cs",
-              "RelativeToolTip": "..\\sgk_admitkey_WS_app.model\\proc\\P5_Histo_Aper.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAQwEYAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "P4_histo_invi.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app.util\\Request\\P4_histo_invi.cs",
+              "RelativeDocumentMoniker": "..\\sgk_admitkey_WS_app.util\\Request\\P4_histo_invi.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app.util\\Request\\P4_histo_invi.cs",
+              "RelativeToolTip": "..\\sgk_admitkey_WS_app.util\\Request\\P4_histo_invi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T15:57:35.484Z"
+              "WhenOpened": "2025-01-28T15:34:14.248Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
+              "Title": "P5_histo_apertura.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app.util\\Request\\P5_histo_apertura.cs",
+              "RelativeDocumentMoniker": "..\\sgk_admitkey_WS_app.util\\Request\\P5_histo_apertura.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app.util\\Request\\P5_histo_apertura.cs",
+              "RelativeToolTip": "..\\sgk_admitkey_WS_app.util\\Request\\P5_histo_apertura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T15:57:53.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "C1_Login.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app\\Controllers\\C1_Login.cs",
+              "RelativeDocumentMoniker": "Controllers\\C1_Login.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app\\Controllers\\C1_Login.cs",
+              "RelativeToolTip": "Controllers\\C1_Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIAwwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T16:03:04.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Identidad.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app.util\\Validaciones\\Identidad.cs",
               "RelativeDocumentMoniker": "..\\sgk_admitkey_WS_app.util\\Validaciones\\Identidad.cs",
@@ -209,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "C4_Historial_Invitaciones.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app\\Controllers\\C4_Historial_Invitaciones.cs",
               "RelativeDocumentMoniker": "Controllers\\C4_Historial_Invitaciones.cs",
@@ -221,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Response.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app.util\\Respuesta\\Response.cs",
               "RelativeDocumentMoniker": "..\\sgk_admitkey_WS_app.util\\Respuesta\\Response.cs",
@@ -233,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "C5_Historial_Aperturas.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app\\Controllers\\C5_Historial_Aperturas.cs",
               "RelativeDocumentMoniker": "Controllers\\C5_Historial_Aperturas.cs",
@@ -245,19 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "P4_Histo_Invi.cs",
-              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app.model\\proc\\P4_Histo_Invi.cs",
-              "RelativeDocumentMoniker": "..\\sgk_admitkey_WS_app.model\\proc\\P4_Histo_Invi.cs",
-              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app.model\\proc\\P4_Histo_Invi.cs",
-              "RelativeToolTip": "..\\sgk_admitkey_WS_app.model\\proc\\P4_Histo_Invi.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAwwDoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T15:49:17.174Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "C2_Menu.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app\\Controllers\\C2_Menu.cs",
               "RelativeDocumentMoniker": "Controllers\\C2_Menu.cs",
@@ -269,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Trankey.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app.util\\Request\\Trankey.cs",
               "RelativeDocumentMoniker": "..\\sgk_admitkey_WS_app.util\\Request\\Trankey.cs",
@@ -281,19 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "P2_Menu.cs",
-              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app.model\\proc\\P2_Menu.cs",
-              "RelativeDocumentMoniker": "..\\sgk_admitkey_WS_app.model\\proc\\P2_Menu.cs",
-              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app.model\\proc\\P2_Menu.cs",
-              "RelativeToolTip": "..\\sgk_admitkey_WS_app.model\\proc\\P2_Menu.cs",
-              "ViewState": "AgIAAI4AAAAAAAAAAIAwwI0AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T15:15:54.905Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "C3_Invitaciones.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app\\Controllers\\C3_Invitaciones.cs",
               "RelativeDocumentMoniker": "Controllers\\C3_Invitaciones.cs",
@@ -302,18 +317,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T16:22:32.762Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "P1_login_usua.cs",
-              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app.util\\Request\\P1_login_usua.cs",
-              "RelativeDocumentMoniker": "..\\sgk_admitkey_WS_app.util\\Request\\P1_login_usua.cs",
-              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Procelec\\Admitkey\\Proyectos\\App\\API\\sgk_admitkey_WS_app.util\\Request\\P1_login_usua.cs",
-              "RelativeToolTip": "..\\sgk_admitkey_WS_app.util\\Request\\P1_login_usua.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T14:46:33.232Z"
             },
             {
               "$type": "Document",
